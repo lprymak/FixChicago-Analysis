@@ -1,0 +1,399 @@
+Month - YY,Organization,Intakes/Outcomes,Type,Dog,Cat,Other,Total
+Jan-17,CACC,Intakes,Confiscate,46,4,0,50
+Jan-17,CACC,Intakes,Disposal Request,35,16,1,52
+Jan-17,CACC,Intakes,Euthanasia Request,48,8,0,56
+Jan-17,CACC,Intakes,Owner Surrender,228,89,9,326
+Jan-17,CACC,Intakes,Returns,1,1,0,2
+Jan-17,CACC,Intakes,Stray,279,155,7,441
+Jan-17,CACC,Intakes,Wildlife,0,0,46,46
+Jan-17,CACC,Outcomes,Adoption,51,50,0,101
+Jan-17,CACC,Outcomes,Dead on Arrival,6,3,0,9
+Jan-17,CACC,Outcomes,Died in Care,60,22,21,103
+Jan-17,CACC,Outcomes,Euthanasia by Request,50,7,0,57
+Jan-17,CACC,Outcomes,Returned to Owner,92,3,0,95
+Jan-17,CACC,Outcomes,Transfer,325,225,31,581
+Feb-17,CACC,Intakes,Confiscate,41,6,2,49
+Feb-17,CACC,Intakes,Disposal Request,25,16,2,43
+Feb-17,CACC,Intakes,Euthanasia Request,44,7,0,51
+Feb-17,CACC,Intakes,Owner Surrender,227,122,20,369
+Feb-17,CACC,Intakes,Returns,2,1,0,3
+Feb-17,CACC,Intakes,Stray,243,157,3,403
+Feb-17,CACC,Intakes,Wildlife,0,0,62,62
+Feb-17,CACC,Outcomes,Adoption,49,33,0,82
+Feb-17,CACC,Outcomes,Dead on Arrival,34,15,14,63
+Feb-17,CACC,Outcomes,Died in Care,5,2,1,8
+Feb-17,CACC,Outcomes,Euthanasia by Request,40,6,0,46
+Feb-17,CACC,Outcomes,Other Euthanasia,52,16,34,102
+Feb-17,CACC,Outcomes,Returned to Owner,85,8,0,93
+Feb-17,CACC,Outcomes,Transfer,303,220,42,565
+Mar-17,CACC,Intakes,Confiscate,41,16,0,57
+Mar-17,CACC,Intakes,Disposal Request,36,15,8,59
+Mar-17,CACC,Intakes,Euthanasia Request,38,8,0,46
+Mar-17,CACC,Intakes,Owner Surrender,201,127,10,338
+Mar-17,CACC,Intakes,Returns,5,1,0,6
+Mar-17,CACC,Intakes,Stray,271,267,7,545
+Mar-17,CACC,Intakes,Wildlife,0,0,85,85
+Mar-17,CACC,Outcomes,Adoption,41,35,0,76
+Mar-17,CACC,Outcomes,Dead on Arrival,46,19,17,82
+Mar-17,CACC,Outcomes,Died in Care,1,3,10,14
+Mar-17,CACC,Outcomes,Euthanasia by Request,36,7,0,43
+Mar-17,CACC,Outcomes,Other Euthanasia,92,14,41,147
+Mar-17,CACC,Outcomes,Returned to Owner,113,3,0,116
+Mar-17,CACC,Outcomes,Transfer,266,351,39,656
+May-17,CACC,Intakes,Confiscate,77,15,2,94
+May-17,CACC,Intakes,Disposal Request,54,38,11,103
+May-17,CACC,Intakes,Euthanasia Request,44,13,0,57
+May-17,CACC,Intakes,Owner Surrender,156,185,7,348
+May-17,CACC,Intakes,Returns,6,0,0,6
+May-17,CACC,Intakes,Stray,272,346,19,637
+May-17,CACC,Intakes,Wildlife,0,0,221,221
+May-17,CACC,Outcomes,Adoption,42,31,0,73
+May-17,CACC,Outcomes,Dead on Arrival,55,42,32,129
+May-17,CACC,Outcomes,Died in Care,3,5,18,26
+May-17,CACC,Outcomes,Euthanasia by Request,43,14,0,57
+May-17,CACC,Outcomes,Other Euthanasia,54,49,59,162
+May-17,CACC,Outcomes,Returned to Owner,114,7,2,123
+May-17,CACC,Outcomes,Transfer,244,396,148,788
+Jun-17,CACC,Intakes,Confiscate,41,8,0,49
+Jun-17,CACC,Intakes,Disposal Request,32,24,11,67
+Jun-17,CACC,Intakes,Euthanasia Request,56,14,0,70
+Jun-17,CACC,Intakes,Owner Surrender,176,179,19,374
+Jun-17,CACC,Intakes,Returns,5,0,0,5
+Jun-17,CACC,Intakes,Stray,255,396,11,662
+Jun-17,CACC,Intakes,Wildlife,0,0,159,159
+Jun-17,CACC,Outcomes,Adoption,53,63,0,116
+Jun-17,CACC,Outcomes,Dead on Arrival,37,30,37,104
+Jun-17,CACC,Outcomes,Died in Care,4,11,4,19
+Jun-17,CACC,Outcomes,Euthanasia by Request,51,12,0,63
+Jun-17,CACC,Outcomes,Other Euthanasia,55,53,61,169
+Jun-17,CACC,Outcomes,Returned to Owner,115,13,3,131
+Jun-17,CACC,Outcomes,Transfer,228,378,88,694
+Jul-17,CACC,Intakes,Confiscate,76,6,0,82
+Jul-17,CACC,Intakes,Disposal Request,53,10,19,82
+Jul-17,CACC,Intakes,Euthanasia Request,65,9,0,74
+Jul-17,CACC,Intakes,Owner Surrender,201,141,7,349
+Jul-17,CACC,Intakes,Returns,3,2,0,5
+Jul-17,CACC,Intakes,Stray,325,385,19,729
+Jul-17,CACC,Intakes,Wildlife,0,0,118,118
+Jul-17,CACC,Outcomes,Adoption,58,44,0,102
+Jul-17,CACC,Outcomes,Dead on Arrival,59,27,36,122
+Jul-17,CACC,Outcomes,Died in Care,3,6,11,20
+Jul-17,CACC,Outcomes,Euthanasia by Request,63,9,0,72
+Jul-17,CACC,Outcomes,Other Euthanasia,88,50,29,167
+Jul-17,CACC,Outcomes,Returned to Owner,138,16,1,155
+Jul-17,CACC,Outcomes,Transfer,305,414,88,807
+Aug-17,CACC,Intakes,Confiscate,61,12,2,75
+Aug-17,CACC,Intakes,Disposal Request,56,19,11,86
+Aug-17,CACC,Intakes,Euthanasia Request,85,9,0,94
+Aug-17,CACC,Intakes,Owner Surrender,186,171,7,364
+Aug-17,CACC,Intakes,Returns,6,1,0,7
+Aug-17,CACC,Intakes,Stray,247,489,13,749
+Aug-17,CACC,Intakes,Wildlife,0,0,141,141
+Aug-17,CACC,Outcomes,Adoption,88,95,0,183
+Aug-17,CACC,Outcomes,Dead on Arrival,64,24,34,122
+Aug-17,CACC,Outcomes,Died in Care,6,12,12,30
+Aug-17,CACC,Outcomes,Euthanasia by Request,67,9,0,76
+Aug-17,CACC,Outcomes,Other Euthanasia,54,98,57,209
+Aug-17,CACC,Outcomes,Returned to Owner,132,11,0,143
+Aug-17,CACC,Outcomes,Transfer,264,476,67,807
+Sep-17,CACC,Intakes,Confiscate,41,8,1,50
+Sep-17,CACC,Intakes,Disposal Request,49,35,8,92
+Sep-17,CACC,Intakes,Euthanasia Request,65,12,2,79
+Sep-17,CACC,Intakes,Owner Surrender,154,171,11,336
+Sep-17,CACC,Intakes,Returns,6,0,0,6
+Sep-17,CACC,Intakes,Stray,250,320,9,579
+Sep-17,CACC,Intakes,Wildlife,0,0,160,160
+Sep-17,CACC,Outcomes,Adoption,73,81,0,154
+Sep-17,CACC,Outcomes,Dead on Arrival,48,37,30,115
+Sep-17,CACC,Outcomes,Died in Care,3,17,5,25
+Sep-17,CACC,Outcomes,Euthanasia by Request,59,11,2,72
+Sep-17,CACC,Outcomes,NA,0,1,0,1
+Sep-17,CACC,Outcomes,Other Euthanasia,34,69,76,179
+Sep-17,CACC,Outcomes,Returned to Owner,96,9,1,106
+Sep-17,CACC,Outcomes,Transfer,244,299,79,622
+Oct-17,CACC,Intakes,Confiscate,65,10,1,76
+Oct-17,CACC,Intakes,Disposal Request,41,24,8,73
+Oct-17,CACC,Intakes,Euthanasia Request,54,24,1,79
+Oct-17,CACC,Intakes,Owner Surrender,183,167,15,365
+Oct-17,CACC,Intakes,Returns,6,4,0,10
+Oct-17,CACC,Intakes,Stray,256,247,7,510
+Oct-17,CACC,Intakes,Wildlife,0,0,113,113
+Oct-17,CACC,Outcomes,Adoption,71,182,0,253
+Oct-17,CACC,Outcomes,Dead on Arrival,46,30,25,101
+Oct-17,CACC,Outcomes,Died in Care,1,9,4,14
+Oct-17,CACC,Outcomes,Euthanasia by Request,43,22,1,66
+Oct-17,CACC,Outcomes,Missing,0,1,0,1
+Oct-17,CACC,Outcomes,Other Euthanasia,38,46,72,156
+Oct-17,CACC,Outcomes,Returned to Owner,107,2,0,109
+Oct-17,CACC,Outcomes,Transfer,272,243,46,561
+Nov-17,CACC,Intakes,Confiscate,36,5,5,46
+Nov-17,CACC,Intakes,Disposal Request,30,19,4,53
+Nov-17,CACC,Intakes,Euthanasia Request,69,11,0,80
+Nov-17,CACC,Intakes,Owner Surrender,151,148,21,320
+Nov-17,CACC,Intakes,Returns,6,5,0,11
+Nov-17,CACC,Intakes,Stray,262,286,25,573
+Nov-17,CACC,Intakes,Wildlife,0,0,69,69
+Nov-17,CACC,Outcomes,Adoption,78,86,0,164
+Nov-17,CACC,Outcomes,Dead on Arrival,29,22,18,69
+Nov-17,CACC,Outcomes,Died in Care,0,2,3,5
+Nov-17,CACC,Outcomes,Euthanasia by Request,62,10,0,72
+Nov-17,CACC,Outcomes,Other Euthanasia,41,26,51,118
+Nov-17,CACC,Outcomes,Relocate,0,0,1,1
+Nov-17,CACC,Outcomes,Returned to Owner,105,17,0,122
+Nov-17,CACC,Outcomes,Transfer,249,200,50,499
+Dec-17,CACC,Intakes,Confiscate,55,15,0,70
+Dec-17,CACC,Intakes,Disposal Request,43,11,1,55
+Dec-17,CACC,Intakes,Euthanasia Request,56,15,0,71
+Dec-17,CACC,Intakes,Owner Surrender,170,149,7,326
+Dec-17,CACC,Intakes,Returns,6,3,0,9
+Dec-17,CACC,Intakes,Stray,219,187,9,415
+Dec-17,CACC,Intakes,Wildlife,0,0,43,43
+Dec-17,CACC,Outcomes,Adoption,66,80,0,146
+Dec-17,CACC,Outcomes,Dead on Arrival,50,14,6,70
+Dec-17,CACC,Outcomes,Died in Care,1,1,1,3
+Dec-17,CACC,Outcomes,Euthanasia by Request,49,14,0,63
+Dec-17,CACC,Outcomes,Other Euthanasia,39,21,21,81
+Dec-17,CACC,Outcomes,Returned to Owner,83,10,1,94
+Dec-17,CACC,Outcomes,Transfer,247,363,30,640
+Jan-18,CACC,Intakes,Confiscate,58,10,0,68
+Jan-18,CACC,Intakes,Disposal Request,38,19,1,58
+Jan-18,CACC,Intakes,Euthanasia Request,88,12,0,100
+Jan-18,CACC,Intakes,Owner Surrender,181,145,12,338
+Jan-18,CACC,Intakes,Returns,7,3,0,10
+Jan-18,CACC,Intakes,Stray,243,146,6,395
+Jan-18,CACC,Intakes,Wildlife,0,0,53,53
+Jan-18,CACC,Outcomes,Adoption,122,55,0,177
+Jan-18,CACC,Outcomes,Dead on Arrival,47,18,11,76
+Jan-18,CACC,Outcomes,Died in Care,0,2,2,4
+Jan-18,CACC,Outcomes,Euthanasia by Request,80,12,0,92
+Jan-18,CACC,Outcomes,Missing,1,0,0,1
+Jan-18,CACC,Outcomes,Other Euthanasia,34,17,28,79
+Jan-18,CACC,Outcomes,Returned to Owner,85,3,0,88
+Jan-18,CACC,Outcomes,Transfer,303,279,33,615
+Feb-18,CACC,Intakes,Stray,247,154,7,408
+Feb-18,CACC,Intakes,Owner Surrender,153,139,17,309
+Feb-18,CACC,Intakes,Confiscate,44,10,0,54
+Feb-18,CACC,Intakes,Wildlife,0,0,43,43
+Feb-18,CACC,Intakes,Disposal Request,31,13,2,46
+Feb-18,CACC,Intakes,Euthanasia by Request,57,10,0,67
+Feb-18,CACC,Intakes,Returns,2,1,0,3
+Feb-18,CACC,Intakes,Quarantine,9,0,0,9
+Feb-18,CACC,Outcomes,Adoption,58,22,0,80
+Feb-18,CACC,Outcomes,Returned to Owner,85,7,0,92
+Feb-18,CACC,Outcomes,Transfer,242,241,34,517
+Feb-18,CACC,Outcomes,Euthanasia by Request,54,8,0,62
+Feb-18,CACC,Outcomes,Other Euthanasia,19,14,21,54
+Feb-18,CACC,Outcomes,Died in Care,2,1,0,3
+Feb-18,CACC,Outcomes,Dead on Arrival,34,14,14,62
+Feb-18,CACC,Outcomes,Relocate,0,0,1,1
+Mar-18,CACC,Intakes,Stray,334,210,9,553
+Mar-18,CACC,Intakes,Owner Surrender,217,300,15,532
+Mar-18,CACC,Intakes,Confiscate,29,22,2,53
+Mar-18,CACC,Intakes,Wildlife,0,0,63,63
+Mar-18,CACC,Intakes,Disposal Request,30,15,2,47
+Mar-18,CACC,Intakes,Euthanasia Request,56,10,1,67
+Mar-18,CACC,Intakes,Returns,6,2,0,8
+Mar-18,CACC,Intakes,Quarantine,9,0,0,9
+Mar-18,CACC,Outcomes,Adoption,101,41,0,142
+Mar-18,CACC,Outcomes,Strays Returned to Owner,100,3,0,103
+Mar-18,CACC,Outcomes,Other Returned to Owner,43,9,0,52
+Mar-18,CACC,Outcomes,Transfer,295,379,41,715
+Mar-18,CACC,Outcomes,Euthanasia by Request,50,7,0,57
+Mar-18,CACC,Outcomes,Other Euthanasia,38,19,37,94
+Mar-18,CACC,Outcomes,Died in Care,4,6,1,11
+Mar-18,CACC,Outcomes,Dead on Arrival,35,29,11,75
+Mar-18,CACC,Outcomes,Relocate,0,0,2,2
+Apr-18,CACC,Intakes,Confiscate,63,13,11,87
+Apr-18,CACC,Intakes,Disposal Request,30,13,4,47
+Apr-18,CACC,Intakes,Euthanasia Request,45,17,0,62
+Apr-18,CACC,Intakes,Owner Surrender,203,166,3,372
+Apr-18,CACC,Intakes,Returns,8,2,0,10
+Apr-18,CACC,Intakes,Stray,320,235,15,570
+Apr-18,CACC,Intakes,Stray,255,322,8,585
+Apr-18,CACC,Intakes,Wildlife,0,0,178,178
+Apr-18,CACC,Outcomes,Adoption,50,52,0,102
+Apr-18,CACC,Outcomes,Dead on Arrival,35,19,25,79
+Apr-18,CACC,Outcomes,Died in Care,1,4,16,21
+Apr-18,CACC,Outcomes,Euthanasia by Request,43,16,0,59
+Apr-18,CACC,Outcomes,Other Euthanasia,82,18,44,144
+Apr-18,CACC,Outcomes,Returned to Owner,96,12,1,109
+Apr-18,CACC,Outcomes,Transfer,304,386,121,811
+Apr-18,CACC,Intakes,Owner Surrender,219,199,4,422
+Apr-18,CACC,Intakes,Confiscate,26,17,0,43
+Apr-18,CACC,Intakes,Wildlife,0,0,127,127
+Apr-18,CACC,Intakes,Disposal Request,39,9,1,49
+Apr-18,CACC,Intakes,Euthanasia Request,55,19,1,75
+Apr-18,CACC,Intakes,Returns,6,1,0,7
+Apr-18,CACC,Intakes,Quarantine,15,0,0,15
+Apr-18,CACC,Outcomes,Adoption,89,28,0,117
+Apr-18,CACC,Outcomes,Strays Returned to Owner,84,3,4,91
+Apr-18,CACC,Outcomes,Other Returned to Owner,31,8,1,40
+Apr-18,CACC,Outcomes,Transfer,339,425,55,819
+Apr-18,CACC,Outcomes,Euthanasia by Request,47,13,1,61
+Apr-18,CACC,Outcomes,Other Euthanasia,45,25,47,117
+Apr-18,CACC,Outcomes,Died in Care,2,6,18,26
+Apr-18,CACC,Outcomes,Dead on Arrival,37,11,18,66
+May-18,CACC,Intakes,Confiscate,37,24,2,63
+May-18,CACC,Intakes,Disposal Request,46,18,2,66
+May-18,CACC,Intakes,Euthanasia Request,33,6,1,40
+May-18,CACC,Intakes,Owner Surrender,184,160,28,372
+May-18,CACC,Intakes,Quarantine,18,0,0,18
+May-18,CACC,Intakes,Returns,8,0,0,8
+May-18,CACC,Intakes,Stray,319,317,5,641
+May-18,CACC,Intakes,Wildlife,0,0,249,249
+May-18,CACC,Outcomes,Adoption,78,31,0,109
+May-18,CACC,Outcomes,Dead on Arrival,50,21,24,95
+May-18,CACC,Outcomes,Died in Care,2,5,10,17
+May-18,CACC,Outcomes,Euthanasia by Request,32,6,1,39
+May-18,CACC,Outcomes,Other Euthanasia,62,35,77,174
+May-18,CACC,Outcomes,Other Returned to Owner,41,10,1,52
+May-18,CACC,Outcomes,Relocate,0,0,1,1
+May-18,CACC,Outcomes,Strays Returned to Owner,105,4,0,109
+May-18,CACC,Outcomes,Transfer,290,420,169,879
+Jun-18,CACC,Intakes,Confiscate,35,6,2,43
+Jun-18,CACC,Intakes,Disposal Request,56,24,3,83
+Jun-18,CACC,Intakes,Euthanasia Request,59,17,0,76
+Jun-18,CACC,Intakes,Owner Surrender,186,243,24,453
+Jun-18,CACC,Intakes,Quarantine,11,0,0,11
+Jun-18,CACC,Intakes,Returns,4,1,0,5
+Jun-18,CACC,Intakes,Stray,306,325,13,644
+Jun-18,CACC,Intakes,Wildlife,0,0,136,136
+Jun-18,CACC,Outcomes,Adoption,98,41,0,139
+Jun-18,CACC,Outcomes,Dead on Arrival,52,25,20,97
+Jun-18,CACC,Outcomes,Died in Care,9,8,6,23
+Jun-18,CACC,Outcomes,Euthanasia by Request,55,15,0,70
+Jun-18,CACC,Outcomes,Other Euthanasia,67,38,50,155
+Jun-18,CACC,Outcomes,Other Returned to Owner,32,4,0,36
+Jun-18,CACC,Outcomes,Strays Returned to Owner,82,6,0,88
+Jun-18,CACC,Outcomes,Transfer,256,427,104,787
+Jul-18,CACC,Intakes,Confiscate,29,14,5,48
+Jul-18,CACC,Intakes,Disposal Request,53,28,1,82
+Jul-18,CACC,Intakes,Euthanasia Request,68,18,0,86
+Jul-18,CACC,Intakes,Owner Surrender,199,243,15,457
+Jul-18,CACC,Intakes,Quarantine,17,1,0,18
+Jul-18,CACC,Intakes,Returns,8,2,0,10
+Jul-18,CACC,Intakes,Stray,327,370,24,721
+Jul-18,CACC,Intakes,Wildlife,0,0,141,141
+Jul-18,CACC,Outcomes,Adoption,110,94,0,204
+Jul-18,CACC,Outcomes,Dead on Arrival,64,33,16,113
+Jul-18,CACC,Outcomes,Died in Care,2,15,19,36
+Jul-18,CACC,Outcomes,Euthanasia by Request,58,18,0,76
+Jul-18,CACC,Outcomes,Other Euthanasia,46,48,35,129
+Jul-18,CACC,Outcomes,Other Returned to Owner,37,7,0,44
+Jul-18,CACC,Outcomes,Relocate,0,0,1,1
+Jul-18,CACC,Outcomes,Strays Returned to Owner,94,9,0,103
+Jul-18,CACC,Outcomes,Transfer,332,408,121,861
+Aug-18,CACC,Intakes,Confiscate,48,23,32,103
+Aug-18,CACC,Intakes,Disposal Request,56,24,11,91
+Aug-18,CACC,Intakes,Euthanasia Request,74,17,2,93
+Aug-18,CACC,Intakes,Owner Surrender,266,193,11,470
+Aug-18,CACC,Intakes,Quarantine,14,1,0,15
+Aug-18,CACC,Intakes,Returns,6,3,0,9
+Aug-18,CACC,Intakes,Stray,338,429,14,781
+Aug-18,CACC,Intakes,Wildlife,0,0,166,166
+Aug-18,CACC,Outcomes,Adoption,91,103,0,194
+Aug-18,CACC,Outcomes,Dead on Arrival,64,32,29,125
+Aug-18,CACC,Outcomes,Died in Care,4,18,13,35
+Aug-18,CACC,Outcomes,Euthanasia by Request,62,14,0,76
+Aug-18,CACC,Outcomes,Other Euthanasia,47,52,59,158
+Aug-18,CACC,Outcomes,Other Returned to Owner,33,6,1,40
+Aug-18,CACC,Outcomes,Relocate,0,0,1,1
+Aug-18,CACC,Outcomes,Strays Returned to Owner,76,3,0,79
+Aug-18,CACC,Outcomes,Transfer,393,463,126,982
+Sep-18,CACC,Intakes,Confiscate,33,8,0,41
+Sep-18,CACC,Intakes,Disposal Request,47,19,2,68
+Sep-18,CACC,Intakes,Euthanasia Request,90,22,0,112
+Sep-18,CACC,Intakes,Owner Surrender,184,191,11,386
+Sep-18,CACC,Intakes,Quarantine,10,0,0,10
+Sep-18,CACC,Intakes,Returns,3,1,0,4
+Sep-18,CACC,Intakes,Stray,291,472,3,766
+Sep-18,CACC,Intakes,Wildlife,0,0,149,149
+Sep-18,CACC,Outcomes,Adoption,75,78,0,153
+Sep-18,CACC,Outcomes,Dead on Arrival,47,26,24,97
+Sep-18,CACC,Outcomes,Died in Care,1,28,7,36
+Sep-18,CACC,Outcomes,Euthanasia by Request,84,17,0,101
+Sep-18,CACC,Outcomes,Other Euthanasia,63,65,85,213
+Sep-18,CACC,Outcomes,Other Returned to Owner,26,8,0,34
+Sep-18,CACC,Outcomes,Strays Returned to Owner,81,10,0,91
+Sep-18,CACC,Outcomes,Transfer,332,446,56,834
+Oct-18,CACC,Intakes,Confiscate,39,13,2,54
+Oct-18,CACC,Intakes,Disposal Request,40,19,7,66
+Oct-18,CACC,Intakes,Euthanasia Request,70,9,0,79
+Oct-18,CACC,Intakes,Owner Surrender,182,195,8,385
+Oct-18,CACC,Intakes,Quarantine,15,1,0,16
+Oct-18,CACC,Intakes,Returns,5,4,0,9
+Oct-18,CACC,Intakes,Stray,311,371,10,692
+Oct-18,CACC,Intakes,Wildlife,0,0,105,105
+Oct-18,CACC,Outcomes,Adoption,78,110,0,188
+Oct-18,CACC,Outcomes,Dead on Arrival,41,23,25,89
+Oct-18,CACC,Outcomes,Died in Care,2,16,3,21
+Oct-18,CACC,Outcomes,Euthanasia by Request,62,9,0,71
+Oct-18,CACC,Outcomes,Missing,0,1,0,1
+Oct-18,CACC,Outcomes,Other Euthanasia,46,36,60,142
+Oct-18,CACC,Outcomes,Other Returned to Owner,39,5,1,45
+Oct-18,CACC,Outcomes,Strays Returned to Owner,78,8,0,86
+Oct-18,CACC,Outcomes,Transfer,300,462,39,801
+Nov-18,CACC,Intakes,Confiscate,35,21,4,60
+Nov-18,CACC,Intakes,Disposal Request,49,17,5,71
+Nov-18,CACC,Intakes,Euthanasia Request,49,15,0,64
+Nov-18,CACC,Intakes,Owner Surrender,197,165,14,376
+Nov-18,CACC,Intakes,Quarantine,13,0,0,13
+Nov-18,CACC,Intakes,Returns,11,3,0,14
+Nov-18,CACC,Intakes,Stray,293,283,4,580
+Nov-18,CACC,Intakes,Wildlife,0,0,48,48
+Nov-18,CACC,Outcomes,Adoption,79,82,0,161
+Nov-18,CACC,Outcomes,Dead on Arrival,53,18,10,81
+Nov-18,CACC,Outcomes,Died in Care,6,3,6,15
+Nov-18,CACC,Outcomes,Euthanasia by Request,46,15,0,61
+Nov-18,CACC,Outcomes,Other Euthanasia,58,25,21,104
+Nov-18,CACC,Outcomes,Other Returned to Owner,43,7,0,50
+Nov-18,CACC,Outcomes,Strays Returned to Owner,104,6,0,110
+Nov-18,CACC,Outcomes,Transfer,278,338,40,656
+Dec-18,CACC,Intakes,Confiscate,50,8,2,60
+Dec-18,CACC,Intakes,Disposal Request,34,15,4,53
+Dec-18,CACC,Intakes,Euthanasia Request,60,12,0,72
+Dec-18,CACC,Intakes,Owner Surrender,141,136,14,291
+Dec-18,CACC,Intakes,Quarantine,3,1,0,4
+Dec-18,CACC,Intakes,Returns,7,3,0,10
+Dec-18,CACC,Intakes,Stray,312,205,4,521
+Dec-18,CACC,Intakes,Wildlife,0,0,42,42
+Dec-18,CACC,Outcomes,Adoption,108,120,0,228
+Dec-18,CACC,Outcomes,Dead on Arrival,39,16,12,67
+Dec-18,CACC,Outcomes,Died in Care,5,6,3,14
+Dec-18,CACC,Outcomes,Euthanasia by Request,54,9,0,63
+Dec-18,CACC,Outcomes,Other Euthanasia,31,20,27,78
+Dec-18,CACC,Outcomes,Other Returned to Owner,22,12,0,34
+Dec-18,CACC,Outcomes,Strays Returned to Owner,98,8,0,106
+Dec-18,CACC,Outcomes,Transfer,277,197,20,494
+Jan-19,CACC,Intakes,Confiscate,53,13,0,66
+Jan-19,CACC,Intakes,Disposal Request,41,14,5,60
+Jan-19,CACC,Intakes,Euthanasia Request,51,5,0,56
+Jan-19,CACC,Intakes,Owner Surrender,167,127,5,299
+Jan-19,CACC,Intakes,Quarantine,11,1,0,12
+Jan-19,CACC,Intakes,Returns,3,1,0,4
+Jan-19,CACC,Intakes,Stray,243,157,4,404
+Jan-19,CACC,Intakes,Wildlife,0,0,30,30
+Jan-19,CACC,Outcomes,Adoption,71,71,0,142
+Jan-19,CACC,Outcomes,Dead on Arrival,41,15,12,68
+Jan-19,CACC,Outcomes,Died in Care,3,0,1,4
+Jan-19,CACC,Outcomes,Euthanasia by Request,45,2,0,47
+Jan-19,CACC,Outcomes,Other Euthanasia,30,22,14,66
+Jan-19,CACC,Outcomes,Other Returned to Owner,29,1,0,30
+Jan-19,CACC,Outcomes,Strays Returned to Owner,64,3,0,67
+Jan-19,CACC,Outcomes,Transfer,282,285,21,588
+Feb-19,CACC,Intakes,Stray,273,189,3,465
+Feb-19,CACC,Intakes,Owner Surrender,177,118,14,309
+Feb-19,CACC,Intakes,Confiscate,42,16,0,58
+Feb-19,CACC,Intakes,Wildlife,0,0,37,37
+Feb-19,CACC,Intakes,Disposal Request,37,19,2,58
+Feb-19,CACC,Intakes,Euthanasia Request,65,11,0,76
+Feb-19,CACC,Intakes,Returns,4,0,0,4
+Feb-19,CACC,Intakes,Quarantine,3,1,0,4
+Feb-19,CACC,Outcomes,Adoption,95,76,0,171
+Feb-19,CACC,Outcomes,Strays Returned to Owner,79,4,0,83
+Feb-19,CACC,Outcomes,Other Returned to Owner,33,5,2,40
+Feb-19,CACC,Outcomes,Transfer,235,246,24,505
+Feb-19,CACC,Outcomes,Euthanasia by Request,59,9,0,68
+Feb-19,CACC,Outcomes,Other Euthanasia,21,11,24,56
+Feb-19,CACC,Outcomes,Died in Care,1,2,0,3
+Feb-19,CACC,Outcomes,Dead on Arrival,40,22,5,67
